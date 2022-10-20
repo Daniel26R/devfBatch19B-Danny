@@ -1,0 +1,23 @@
+{
+  "name": "devfbatch19b",
+  "version": "1.0.0",
+  "description": "Este es el repo de la clase.",
+  "main": "sumar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikemaya/devfBatch19B.git"
+  },
+  "keywords": [],
+  "author": "Enrique Maya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kikemaya/devfBatch19B/issues"
+  },
+  "homepage": "https://github.com/kikemaya/devfBatch19B#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

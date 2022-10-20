@@ -1,6 +1,6 @@
 Javascript, DEFINICION:
 
-Un lenguaje multiparadigma, principalmente orientado a prototipos. De alto nivel. Tipado dinàmico. Que trabaja en un solo hilo del procesador de forma concurrente.
+Un lenguaje multiparadigma, principalmente orientado a objetos y basado en prototipos. De alto nivel. Tipado dinàmico. Que trabaja en un solo hilo del procesador de forma concurrente.
 
 ================================================================================================================
 TIPADO DINÀMICO vs ESTÀTICO
@@ -27,7 +27,7 @@ SI ES:
 
 * Esta formado por tecnologias como:
 
-  - Interprete v8 de Google Chrome
+  - Interprete(javascript engine) v8 de Google Chrome
   - Libreria de codigo asincrono: LIBUV
   - Màs codigo en c, c++ y en el propio javascript
 
