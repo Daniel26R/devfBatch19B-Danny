@@ -2,7 +2,6 @@
 // facil de leer
 
 // normalmente, se almacenan en constantes o en variables
-
 // en las funciones flecha, no existe el objeto this
 
 const saludar = () => {
