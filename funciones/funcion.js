@@ -6,8 +6,10 @@ function saludar() {
 
 console.log(saludar());
 
+// parametro
 function suma(a, b) {
   return a + b;
 }
 
+// argumento
 console.log(suma(3, 18));
