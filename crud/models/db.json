@@ -1,12 +1,3 @@
 {
-  "data": [
-    {
-      "task": "Lavar la losa",
-      "id": 1
-    },
-    {
-      "task": "Preparar la comida",
-      "id": 2
-    }
-  ]
+  "data": []
 }
